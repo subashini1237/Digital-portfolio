@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Suji M - Portfolio</title>
+    <title>Subashini k
+        Portfolio</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -69,7 +70,7 @@
 <body>
 
     <div class="header">
-        <h1>Suji M</h1>
+        <h1>Subashini k</h1>
         <p>BSc Computer Science Student</p>
     </div>
 
